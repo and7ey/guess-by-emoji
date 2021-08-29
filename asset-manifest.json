@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/guess-by-emoji/static/css/main.9433c795.chunk.css",
-    "main.js": "/guess-by-emoji/static/js/main.97fdba62.chunk.js",
-    "main.js.map": "/guess-by-emoji/static/js/main.97fdba62.chunk.js.map",
-    "runtime-main.js": "/guess-by-emoji/static/js/runtime-main.21fc16b4.js",
-    "runtime-main.js.map": "/guess-by-emoji/static/js/runtime-main.21fc16b4.js.map",
-    "static/js/2.296b1e2b.chunk.js": "/guess-by-emoji/static/js/2.296b1e2b.chunk.js",
-    "static/js/2.296b1e2b.chunk.js.map": "/guess-by-emoji/static/js/2.296b1e2b.chunk.js.map",
-    "static/js/3.fc98a3fa.chunk.js": "/guess-by-emoji/static/js/3.fc98a3fa.chunk.js",
-    "static/js/3.fc98a3fa.chunk.js.map": "/guess-by-emoji/static/js/3.fc98a3fa.chunk.js.map",
-    "index.html": "/guess-by-emoji/index.html",
-    "static/css/main.9433c795.chunk.css.map": "/guess-by-emoji/static/css/main.9433c795.chunk.css.map",
-    "static/js/2.296b1e2b.chunk.js.LICENSE.txt": "/guess-by-emoji/static/js/2.296b1e2b.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/guess-by-emoji/static/media/background.b7950e10.png"
+    "main.css": "/guess-movie-by-emoji/static/css/main.d385f398.chunk.css",
+    "main.js": "/guess-movie-by-emoji/static/js/main.bc55f051.chunk.js",
+    "main.js.map": "/guess-movie-by-emoji/static/js/main.bc55f051.chunk.js.map",
+    "runtime-main.js": "/guess-movie-by-emoji/static/js/runtime-main.bd26ce2d.js",
+    "runtime-main.js.map": "/guess-movie-by-emoji/static/js/runtime-main.bd26ce2d.js.map",
+    "static/js/2.dcde0e8e.chunk.js": "/guess-movie-by-emoji/static/js/2.dcde0e8e.chunk.js",
+    "static/js/2.dcde0e8e.chunk.js.map": "/guess-movie-by-emoji/static/js/2.dcde0e8e.chunk.js.map",
+    "static/js/3.112e0f75.chunk.js": "/guess-movie-by-emoji/static/js/3.112e0f75.chunk.js",
+    "static/js/3.112e0f75.chunk.js.map": "/guess-movie-by-emoji/static/js/3.112e0f75.chunk.js.map",
+    "index.html": "/guess-movie-by-emoji/index.html",
+    "static/css/main.d385f398.chunk.css.map": "/guess-movie-by-emoji/static/css/main.d385f398.chunk.css.map",
+    "static/js/2.dcde0e8e.chunk.js.LICENSE.txt": "/guess-movie-by-emoji/static/js/2.dcde0e8e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/guess-movie-by-emoji/static/media/background.b7950e10.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.21fc16b4.js",
-    "static/js/2.296b1e2b.chunk.js",
-    "static/css/main.9433c795.chunk.css",
-    "static/js/main.97fdba62.chunk.js"
+    "static/js/runtime-main.bd26ce2d.js",
+    "static/js/2.dcde0e8e.chunk.js",
+    "static/css/main.d385f398.chunk.css",
+    "static/js/main.bc55f051.chunk.js"
   ]
 }
